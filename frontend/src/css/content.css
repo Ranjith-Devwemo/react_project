@@ -1,0 +1,56 @@
+/* content */
+.con1{
+    /* background-color: blue; */
+    /* margin-top: -100px; */
+}
+.content{
+    position: relative;
+    padding: 3em 8em;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+}
+
+.con-p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.conbu{
+display: flex;
+justify-content: end;
+}
+.login-bu{
+
+}
+.con-b{
+    padding: 0 3em;
+background-color: orangered;
+border: orangered;
+border-radius: 30px;
+color: white;
+}
+/* .con2{
+    background-color: aqua;
+} */
+.sup-con{
+    /* width: 80%; */
+}
+.imag2{
+    height: 450px;
+    width: 420px;
+}
+.con-courses{
+    display: flex;
+    align-items: start;
+    justify-content: space-evenly;
+    /* margin: 0; */
+    justify-content: flex-start;
+  
+
+}
+.con-cre{
+   font-size: 75px;
+   margin: 25px;
+   /* color: blue;  */
+}

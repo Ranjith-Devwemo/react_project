@@ -1,0 +1,57 @@
+/* .img1{
+  height: 600px;
+  width: 500px;  
+} */
+.image1{
+    height: 30em;
+    width: 25em;
+}
+.image{
+    height:20em;
+    width: 10em;
+}
+.menu{
+    color: aqua;
+}
+.h-container{
+    padding: 1em;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.h-h1{
+/* font-size: ; */
+width: 80%;
+font-family: sans-serif;
+text-align: center;
+}
+.h1-span{
+    color: blue;
+}
+.h-p{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 1.8em;
+ text-align: center;
+}
+.h-button{
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 20px;
+    padding: 3px 4em;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* margin: ; */
+}
+.h-button:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.h-mini{
+width: 90%;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+
+
